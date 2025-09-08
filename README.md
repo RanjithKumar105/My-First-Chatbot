@@ -1,8 +1,5 @@
 AI-Powered-Health-Assistant-Using-LLMs-LangChain-Pinecone-Flask-AWS
 
-
-
-
 🚀 How to Get Started
 1. Clone the Repository
 git clone https://github.com/your-username/AI-Powered-Health-Assistant.git
